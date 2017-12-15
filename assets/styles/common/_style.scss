@@ -1,0 +1,17 @@
+.main-form {
+  padding: 20px;
+
+  input {
+    &.error {
+      border: 1px solid red;
+    }
+  }
+  div {
+    color: red;
+    font-size: 14px;
+
+    &.success {
+      color: green;
+    }
+  }
+}
