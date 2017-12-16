@@ -1,0 +1,12 @@
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+
+.idea
+*.log
+
+node_modules
+vendor
+dist
+
+.htaccess
